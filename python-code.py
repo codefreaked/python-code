@@ -87,4 +87,7 @@ word[:2] + word[2:] # Output will be "Python"
  s = "helloworldthisistesting"
  len(s) # output 22
  
+#Lists
+      
+myList = []
  
